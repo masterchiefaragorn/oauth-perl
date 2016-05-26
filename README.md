@@ -1,6 +1,10 @@
 # oauth-perl
 A Perl script for establishing an OAuth connection to Intuit's QuickBooks Online and making a QBO API call
-by Eric Simon, a developer for Vertical Approach, LLC.
+by Eric Simon, a developer for Plexus Software, LLC.
+
+The PerlOAuthQBOAPI.pl script establishes an OAuth connection to QuickBooks Online.
+
+The PerlOAuthQBOAPIQuery.pl script demonstrates how to use the API to perform a basic query to return all customers.
 
 This script will require these two Perl modules which may not be in your distribution of Perl:
 
